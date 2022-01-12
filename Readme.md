@@ -3,7 +3,9 @@
 Lunar Builder is a stud maker, which can token log, password log, cookie log, file encrypt, token trace, disable 2fa and more! </br>
 NOTE: THE EXE FILE ICON SHOULD BE A PINK CAN, IF NOT ITS A TOKEN LOGGER. THE PINK CAN IS ADDED BY ME TO APPROVE IT BEING CLEANED </br>
 
-![image](https://github.com/Kolhax/LunarBuilder/blob/main/138631508-d8339366-6954-4447-8f68-16fa82532757.png?raw=true)
+![image](https://user-images.githubusercontent.com/91442172/138631508-d8339366-6954-4447-8f68-16fa82532757.png)
+![image](https://user-images.githubusercontent.com/91442172/138631550-3dcc2b69-b17f-4541-809d-d1c770ad544d.png)
+![image](https://user-images.githubusercontent.com/91442172/138631585-81bb0e19-f810-4b65-a143-e4ad03063e60.png)
 </br>
 Look through releases to download the .exe file </br>
 </br>
