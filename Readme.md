@@ -1,7 +1,7 @@
 # Lunar_Builder V2
  </br>
 Lunar Builder is a stud maker, which can token log, password log, cookie log, file encrypt, token trace, disable 2fa and more! </br>
-NOTE: x </br>
+NOTE: UPDATE!!! ADDED APILESS VERSION! </br>
 
 ![image](https://user-images.githubusercontent.com/91442172/138631508-d8339366-6954-4447-8f68-16fa82532757.png)
 ![image](https://user-images.githubusercontent.com/91442172/138631550-3dcc2b69-b17f-4541-809d-d1c770ad544d.png)
