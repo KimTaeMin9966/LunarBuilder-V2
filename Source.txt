@@ -1,5 +1,8 @@
 After alot of copyright problems and RATTERS, we needed to create a v2 and litterally burn the old source code, 
 for a temporary time, the source code will not be accessible, for your safety and the one of our community
 
+DO NOT DOWNLOAD ANY OTHERS BUILDER EXCEPT THIS OFFICIAL ONE,
+ALL THE OTHERS ARE DUALHOOKED OR RAT THAT HARM YOUR PC!
+
 But still can download from releases, right there:
 https://github.com/Kolhax/LunarBuilder-V2/releases/tag/release
