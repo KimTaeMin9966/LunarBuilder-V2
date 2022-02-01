@@ -16,7 +16,7 @@ STEP1: Disable real-time protection to download the file </br>
 STEP2: Download the file, if it says something like download failed due to containing a virus then click ctrl+j and you should be redirected to the downloads page of your browser. Whilst in the downloads page you can authorize the download by clicking something along the lines of 'Resume Download'. </br>
 </br>
 </br>
-STEP3: Run the file, if it doesnt run or you get an error like 'Windows protected your pc', then click more info and then click run anyway< /br>
+STEP3: Run the file, if it doesnt run or you get an error like 'Windows protected your pc', then click more info and then click run anyway </br>
 </br>
 </br>
 STEP4: ENJOY!!!! </br>
